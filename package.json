@@ -21,7 +21,7 @@
     "url": "https://github.com/joefitzgerald/autocomplete-go/issues"
   },
   "dependencies": {
-    "atom-package-deps": "^3.0.6",
+    "atom-package-deps": "^4.0.0",
     "underscore-plus": "1.x"
   },
   "devDependencies": {
